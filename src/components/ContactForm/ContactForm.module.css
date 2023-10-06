@@ -1,12 +1,12 @@
 .form {
-  background-color: rgb(2, 48, 85);
+  background-color: rgb(160, 33, 132);
   display: flex;
   justify-content: center;
   flex-direction: column;
   border: 1px solid #000;
   padding: 20px;
   border-radius: 4px;
-  box-shadow: 0.5rem 0.5rem 2rem rgb(167, 164, 164),
+  box-shadow: 0.5rem 0.5rem 2rem rgb(167, 164, 167),
     -0.5rem -0.5rem 2rem rgb(172, 171, 171);
 }
 
