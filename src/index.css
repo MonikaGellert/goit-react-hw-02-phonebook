@@ -13,3 +13,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+li {
+  list-style: none;
+}
+
+input {
+  outline: none;
+}
+
+button:hover {
+  box-shadow: 2px 3px 5px rgb(11, 102, 187);
+}
