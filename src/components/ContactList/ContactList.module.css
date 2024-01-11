@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  border: 1px solid #000;
+  border: 1px solid #0b0b0b;
   padding: 20px;
   border-radius: 4px;
   box-shadow: 0.5rem 0.5rem 2rem rgb(167, 164, 167),
